@@ -1,0 +1,11 @@
+BinUp Tasks:
+    Card:   
+        Faça uma página igual a do google, que permita o usuário digitar, botões e tudo mais. 
+        Quando o usuário digitar qualquer coisa e dar enter ou clicar no botão, ele deve ser direcionado 
+        para outra página, fazendo com que, a frase que ele escreveu, apareça colorida.
+
+        A entrega desse desafio deve ser um arquivo html executável, juntamente com suas pastas.    
+
+#Primeiro desafio proposto pela empresa BinUp com o objetivo de me treinar como Desenvolvedor fullStack.
+
+Realizado por: @author Victor Pompeu
